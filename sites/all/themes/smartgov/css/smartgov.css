@@ -1,0 +1,16 @@
+/* This file will hold styles for the mobile version of your website (mobile first). */
+/* This also can include ANY global CSS that applies site-wide. Unless overwritten by a more specific style rule, CSS declarations in global.css will apply site-wide. */
+/*
+.block-facetapi-o0b7w2uls04wkaakwsc49msbbzgekf7c .block-title {
+  visibility: hidden;
+  content: 'AAAA';
+  background-color: green;
+
+}
+
+.block-facetapi-o0b7w2uls04wkaakwsc49msbbzgekf7c .block-title::after {
+  content: 'AAAA';
+  visibility: visible;
+  background-color: green;
+
+}
